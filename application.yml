@@ -1,0 +1,9 @@
+my:
+   greeting: Hello World from sayali
+   list:
+      values: One, Two, Three
+      
+db:
+   connection: connection-string-here-from-config
+   host: 127.0.0.1
+   port: 1200
